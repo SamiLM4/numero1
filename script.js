@@ -10,4 +10,5 @@ function Chutar() {
   } else if (numeropensadoMaquina == 0) {
     elementoTela.innerHTML = ("Faça o valor pensado - 7  x 5 + 70 : 7, - o valor inserido, o resultado deverá ser = 5");
   }
+  console.log("Olá")
 }
